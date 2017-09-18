@@ -1,0 +1,20 @@
+.box{
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+main{
+    text-align: center;
+    font-size: 24px;
+}
+button{
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+h1{
+    text-transform: uppercase;
+}
+body{
+    background-image: url("../img/cheap_diagonal_fabric.png");
+}
